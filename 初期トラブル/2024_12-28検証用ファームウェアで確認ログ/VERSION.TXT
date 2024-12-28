@@ -1,0 +1,4 @@
+API version: 18
+Config version: 3
+Build from: bmp-vial-1.3.6-1-gc07b59c65a*
+Build Target: sekigon_gtrk67_vial
